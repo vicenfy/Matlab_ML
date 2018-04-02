@@ -108,3 +108,4 @@ end
 mynumber = input('Enter a number: ');
 output = Myfunction(mynumber)
 
+%画图
